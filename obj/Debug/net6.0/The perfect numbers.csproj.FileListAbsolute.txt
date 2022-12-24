@@ -1,0 +1,15 @@
+C:\Users\orgenal\Desktop\The perfect numbers\bin\Debug\net6.0\The perfect numbers.exe
+C:\Users\orgenal\Desktop\The perfect numbers\bin\Debug\net6.0\The perfect numbers.deps.json
+C:\Users\orgenal\Desktop\The perfect numbers\bin\Debug\net6.0\The perfect numbers.runtimeconfig.json
+C:\Users\orgenal\Desktop\The perfect numbers\bin\Debug\net6.0\The perfect numbers.dll
+C:\Users\orgenal\Desktop\The perfect numbers\bin\Debug\net6.0\The perfect numbers.pdb
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\The perfect numbers.csproj.AssemblyReference.cache
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\The perfect numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\The perfect numbers.AssemblyInfoInputs.cache
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\The perfect numbers.AssemblyInfo.cs
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\The perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\The perfect numbers.dll
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\refint\The perfect numbers.dll
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\The perfect numbers.pdb
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\The perfect numbers.genruntimeconfig.cache
+C:\Users\orgenal\Desktop\The perfect numbers\obj\Debug\net6.0\ref\The perfect numbers.dll
